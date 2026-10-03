@@ -1,0 +1,28 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2026 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2026.1 (win64) Build 6511674 Tue Jun 16 11:02:23 MDT 2026
+| Date         : Sat Oct  3 19:50:52 2026
+| Host         : LAPTOP-BC1U3P79 running 64-bit major release  (build 9200)
+| Command      : report_utilization -file {C:/Users/Shreyas Pattar/Documents/VLSI Projects/AXI_to_APB_Bridge/utilization.rpt} -hierarchical
+| Design       : axi_to_apb_bridge
+| Device       : xc7z010clg400-1
+| Speed File   : -1
+| Design State : Synthesized
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Utilization Design Information
+
+Table of Contents
+-----------------
+1. Utilization by Hierarchy
+
+1. Utilization by Hierarchy
+---------------------------
+
++-------------------+--------+------------+------------+---------+------+-----+--------+--------+------------+
+|      Instance     | Module | Total LUTs | Logic LUTs | LUTRAMs | SRLs | FFs | RAMB36 | RAMB18 | DSP Blocks |
++-------------------+--------+------------+------------+---------+------+-----+--------+--------+------------+
+| axi_to_apb_bridge |  (top) |         54 |         54 |       0 |    0 | 181 |      0 |      0 |          0 |
++-------------------+--------+------------+------------+---------+------+-----+--------+--------+------------+
+
+
